@@ -1,0 +1,88 @@
+{
+  "stats": {
+    "suites": 4,
+    "tests": 5,
+    "passes": 5,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-12-15T08:12:43.138Z",
+    "end": "2023-12-15T08:12:50.919Z",
+    "duration": 7781
+  },
+  "tests": [
+    {
+      "title": "receives a function and calls it",
+      "fullTitle": "index receivesAFunction(callback) receives a function and calls it",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns a function",
+      "fullTitle": "index returnsANamedFunction() returns a function",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns a named function",
+      "fullTitle": "index returnsANamedFunction() returns a named function",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns a function",
+      "fullTitle": "index returnsAnAnonymousFunction() returns a function",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns an anonymous function",
+      "fullTitle": "index returnsAnAnonymousFunction() returns an anonymous function",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "receives a function and calls it",
+      "fullTitle": "index receivesAFunction(callback) receives a function and calls it",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns a function",
+      "fullTitle": "index returnsANamedFunction() returns a function",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns a named function",
+      "fullTitle": "index returnsANamedFunction() returns a named function",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns a function",
+      "fullTitle": "index returnsAnAnonymousFunction() returns a function",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns an anonymous function",
+      "fullTitle": "index returnsAnAnonymousFunction() returns an anonymous function",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
